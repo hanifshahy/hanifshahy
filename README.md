@@ -11,4 +11,4 @@ I'm Mohammad Hanif Shahy
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanifshahy&theme=ambient_gradient&show_icons=true)
+![Hanif's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanifshahy&theme=ambient_gradient&show_icons=true)
