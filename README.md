@@ -9,6 +9,8 @@ I'm Mohammad Hanif Shahy
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanifshahy&theme=ambient_gradient&layout=donut&hide=cpp%20notebook)
 
+| End | Tech |
+| --- |  --- |
 
 
 ![Hanif's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanifshahy&theme=ambient_gradient&show_icons=true)
