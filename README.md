@@ -9,8 +9,13 @@ I'm Mohammad Hanif Shahy
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanifshahy&theme=ambient_gradient&layout=donut&hide=cpp%20notebook)
 
-| End | Tech |
-| --- |  --- |
-
+| Platform | Backend      |   Tools    |
+| ---      |  ---         | ----       |
+| Android  | gRPC         | Git        |
+|  Web     | REST         | Github     |
+| Windows  | HiveDb       |     _      |
+| Linux    | MongoDb      | _          |
+| iOS      | Google Cloud | _          |
+| Mac      | Alibaba Cloud| _          |
 
 ![Hanif's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanifshahy&theme=ambient_gradient&show_icons=true)
